@@ -115,5 +115,3 @@ Dashboard with mandi prices & weather updates.
 ### ✨ Thanks For Visiting My Profile ✨
 
 
-
-<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
